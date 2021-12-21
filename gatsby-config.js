@@ -2,11 +2,11 @@ module.exports = {
   siteMetadata: {
     title: `Kowalenko Blog`,
     author: {
-      name: `Kyle Mathews`,
+      name: `Георгий Коваленко`,
       summary: `who lives and works in San Francisco building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Авторский блог Георгия Коваленко.`,
+    siteUrl: `https://blog.kowalenko.net/`,
     social: {
       twitter: `kylemathews`,
     },
