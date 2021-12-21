@@ -8,4 +8,3 @@
 </h1>
 
 This blog is written using the React + GraphQL stack. I am not only engaged in the technical part of the blog, but also write my notes – I will be glad to see you on my site.  
-
