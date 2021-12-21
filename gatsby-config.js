@@ -3,12 +3,12 @@ module.exports = {
     title: `Kowalenko Blog`,
     author: {
       name: `Георгий Коваленко`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `– заметки ни о чём и обо всём.`,
     },
     description: `Авторский блог Георгия Коваленко.`,
     siteUrl: `https://blog.kowalenko.net/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `shpilzen`,
     },
   },
   plugins: [
@@ -105,7 +105,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "Kowalenko Blog RSS Feed",
           },
         ],
       },
