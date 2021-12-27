@@ -3,7 +3,7 @@ module.exports = {
     title: `Kowalenko Blog`,
     author: {
       name: `Георгий Коваленко`,
-      summary: `– путевые заметки.`,
+      summary: `– заметки ни о чём и обо всём.`,
     },
     description: `Авторский блог Георгия Коваленко.`,
     siteUrl: `https://blog.kowalenko.net/`,
