@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Kowalenko Blog`,
     author: {
-      name: `Георгий Коваленко`,
-      summary: `– заметки ни о чём и обо всём.`,
+      name: `Kowalenko`,
+      summary: `– про всё, что кажется интересным, простым языком.`,
     },
     description: `Авторский блог Георгия Коваленко.`,
     siteUrl: `https://blog.kowalenko.net/`,
