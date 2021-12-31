@@ -5,7 +5,7 @@ module.exports = {
       name: `Kowalenko`,
       summary: `– про всё, что кажется интересным, простым языком.`,
     },
-    description: `Авторский блог Георгия Коваленко.`,
+    description: `Авторский блог Георгия Коваленко 1.`,
     siteUrl: `https://blog.kowalenko.net/`,
     social: {
       twitter: `shpilzen`,
