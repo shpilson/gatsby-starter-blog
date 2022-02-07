@@ -11362,6 +11362,11 @@
   "resolved" "https://registry.npmjs.org/typedarray/-/typedarray-0.0.6.tgz"
   "version" "0.0.6"
 
+"typeface-libre-baskerville@^1.1.13":
+  "integrity" "sha512-mLaex5KvFi+nolW3x+oePnT/+Fn84yeWQWYv2K6TC0y+SPU/k3kh91Kk6vWBmBAlP+CC5bsJ9RNgU0nRTsvUtQ=="
+  "resolved" "https://registry.npmjs.org/typeface-libre-baskerville/-/typeface-libre-baskerville-1.1.13.tgz"
+  "version" "1.1.13"
+
 "typeface-merriweather@0.0.72":
   "integrity" "sha512-gO0+fcZ1fTyKUsYY1ltYOOTI6FmBGeEdyIfeQg9NL8aInndk0feiJJVJsKHm/DiyYrnQEezraAQhz/KQoqMGtw=="
   "resolved" "https://registry.npmjs.org/typeface-merriweather/-/typeface-merriweather-0.0.72.tgz"

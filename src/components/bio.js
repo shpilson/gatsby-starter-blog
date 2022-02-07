@@ -44,8 +44,9 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          <strong>{author.name}</strong> {author?.summary || null}
+          {author?.summary || null}
           {` `}
+          <br />
           <a href={`https://twitter.com/${social?.twitter || ``}`}>
             Подписывайтесь в Twitter
           </a>
