@@ -5303,6 +5303,11 @@
     "lodash" "^4.17.21"
     "micromatch" "^4.0.4"
 
+"gatsby-plugin-disqus@^1.2.3":
+  "integrity" "sha512-HjsMCGPt1qI/oryCw1NJjFS6XQ99eQmsXjrxxRi295sjlpvvcnNXlB11O7v4BbjNu2euqCY6XzK/fBkYJjjgCQ=="
+  "resolved" "https://registry.npmjs.org/gatsby-plugin-disqus/-/gatsby-plugin-disqus-1.2.3.tgz"
+  "version" "1.2.3"
+
 "gatsby-plugin-feed@^4.4.0":
   "integrity" "sha512-AUk7/m2jhaGQgnss6TVJvXGBIhBBQf1dnnl7MrHqt+qCZwv9urdwdEn4H1RyhQ4nS2SY5f3SemNmYCWPPhD5aA=="
   "resolved" "https://registry.npmjs.org/gatsby-plugin-feed/-/gatsby-plugin-feed-4.4.0.tgz"

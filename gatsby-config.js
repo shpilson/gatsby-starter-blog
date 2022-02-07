@@ -1,4 +1,12 @@
 module.exports = {
+  plugins: [
+    {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+        shortname: `kowalenko`
+      }
+    },
+  ],
   siteMetadata: {
     title: `Kowalenko Blog`,
     author: {

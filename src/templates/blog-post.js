@@ -5,6 +5,8 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
+import { Disqus } from 'gatsby-plugin-disqus';
+
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
@@ -23,7 +25,7 @@ const BlogPostTemplate = ({ data, location }) => {
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
+          <p>✍️ {post.frontmatter.date}</p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
@@ -31,6 +33,11 @@ const BlogPostTemplate = ({ data, location }) => {
         />
         <hr />
         <footer>
+          <Disqus
+            identifier={post.id}
+            title={post.title}
+            url={`${location.pathname}`}
+          />
           <Bio />
         </footer>
       </article>
